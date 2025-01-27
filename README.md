@@ -4,7 +4,7 @@ To get started with the project, follow these steps:
 
 1. Install the dependencies:
    ```bash
-   npm i
+   npm ci
    ```
 2. Run the following:
    ```bash
